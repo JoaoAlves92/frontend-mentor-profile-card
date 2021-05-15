@@ -12,11 +12,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/JoaoAlves92/frontend-mentor-profile-card)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-profile-card-69c3df.netlify.app/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [João Marangoni](https://joao-marangoni-8f70e2.netlify.app/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
